@@ -6,14 +6,12 @@
 {"url": "https://comfy.ua/ua/igrovaja-pristavka-sony-playstation-5-digital-edition.html", "selector": "button.buy-btn"},
 {"url": "https://comfy.ua/ua/igrovaja-pristavka-playstation-5-digital-edition-gejmpad-dualsense-podpiska-na-12-mesjacev-karta-oplaty-2000-grn.html", "selector": "button.buy-btn"},
 {"url": "https://comfy.ua/ua/igrovaja-pristavka-sony-playstation-5-digital-edition-garnitura-pulse-3d-wireless-playstation-plus-podpiska-na-12-mesjacev.html", "selector": "button.buy-btn"},
+{"url": "https://comfy.ua/igrovaja-pristavka-sony-playstation-5-ps5-returnal-ps5-ghost-of-tsushima-director-s-cut.html", "selector": "button.buy-btn"},
 {"url": "https://allo.ua/ua/igrovye-pristavki/komplekt-ps5de-garnitura-pulse-3d-ps-plus-12mes.html", "selector": "main button.buy-button--cart"},
+{"url": "https://allo.ua/ua/igrovye-pristavki/komplekt-ps5de-dualsense-zarjadnaja-stancija-dualsense-ps-plus-12mes.html", "selector": "main button.buy-button--cart"},
+{"url": "https://allo.ua/ua/igrovye-pristavki/komplekt-ps5-igra-returnal-igra-sackboy-a-big-adventure.html", "selector": "main button.buy-button--cart"},
 {"url": "https://allo.ua/ua/igrovye-pristavki/konsol-playstation-5-digital-edition.html", "selector": "main button.buy-button--cart"},
 {"url": "https://allo.ua/ua/igrovye-pristavki/igrovaya-konsol-playstation-5.html", "selector": "main button.buy-button--cart"},
 {"url": "https://www.moyo.ua/igrovaya-pristavka-sony-playstation-5/468487.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"},
 {"url": "https://www.moyo.ua/igrovaya_konsol_playstation_5_digital_edition_besprovodnaya_garnitura_pulse_3d_ps_plus_12_mesyatsev/501711.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"},
-{"url": "https://www.moyo.ua/igrovaya_konsol_playstation_5_digital_edition_dualsense_zaryadnaya_stantsiya_dualsense_ps_plus_12_mesyatsev/501710.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"},
-{"url": "https://rozetka.com.ua/samsung-sm-a135flbvsek/p340315348/", "selector": "button.buy-button.button--green"},
-{"url": "https://hard.rozetka.com.ua/kingston_fury_kf432c16bbk2_16/p310064023/", "selector": "button.buy-button.button--green"},
-{"url": "https://comfy.ua/ua/smartfon-xiaomi-redmi-note-11s-6-64gb-twilight-blue.html", "selector": "button.buy-btn"},
-{"url": "https://www.moyo.ua/ua/mashinka-dlya-strizhki-volos-philips-hc3510-15/425053.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"},
-{"url": "https://allo.ua/ua/mul-tivarki/tefal-rk321a34.html", "selector": "main button.buy-button--cart"}]
+{"url": "https://www.moyo.ua/igrovaya_konsol_playstation_5_digital_edition_dualsense_zaryadnaya_stantsiya_dualsense_ps_plus_12_mesyatsev/501710.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"}]
