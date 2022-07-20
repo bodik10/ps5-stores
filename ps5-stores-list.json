@@ -1,5 +1,4 @@
-[
-{"url": "https://rozetka.com.ua/ua/sony_playstation_9398806_9399902_9374107_9809944/p319129303/", "selector": "button.buy-button.button--green"},
+[{"url": "https://rozetka.com.ua/ua/sony_playstation_9398806_9399902_9374107_9809944/p319129303/", "selector": "button.buy-button.button--green"},
 {"url": "https://rozetka.com.ua/ua/sony_playstation_9398806_9387909_9809944/p319133506/", "selector": "button.buy-button.button--green"},
 {"url": "https://rozetka.com.ua/ua/playstation_5/p223588825/", "selector": "button.buy-button.button--green"},
 {"url": "https://rozetka.com.ua/ua/playstation_5_digital_edition_2/p223596301/", "selector": "button.buy-button.button--green"},
@@ -17,5 +16,4 @@
 {"url": "https://hard.rozetka.com.ua/kingston_fury_kf432c16bbk2_16/p310064023/", "selector": "button.buy-button.button--green"},
 {"url": "https://comfy.ua/ua/smartfon-xiaomi-redmi-note-11s-6-64gb-twilight-blue.html", "selector": "button.buy-btn"},
 {"url": "https://www.moyo.ua/ua/mashinka-dlya-strizhki-volos-philips-hc3510-15/425053.html", "selector": "div.product_info-wrap button.buy-btn.btn.btn--green"},
-{"url": "https://allo.ua/ua/mul-tivarki/tefal-rk321a34.html", "selector": "main button.buy-button--cart"},
-]
+{"url": "https://allo.ua/ua/mul-tivarki/tefal-rk321a34.html", "selector": "main button.buy-button--cart"}]
